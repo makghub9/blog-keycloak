@@ -1,8 +1,8 @@
 {
   "realm": "MyDemo",
-  "auth-server-url": "http://localhost:8080/auth",
+  "auth-server-url": "http://mykcsso.azurewebsites.net/auth/",
   "ssl-required": "external",
-  "resource": "my-react-client",
+  "resource": "my-react-cilent",
   "public-client": true,
   "confidential-port": 0
 }
